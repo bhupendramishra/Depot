@@ -1,0 +1,5 @@
+require 'rubygems'
+require 'sinatra'
+rails -v 2.3.8
+ruby -v 1.8.6
+
